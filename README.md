@@ -26,8 +26,3 @@
 ![Snake animation](https://github.com/jojox6/jojox6/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/jojox6/count.svg" />
- </p>
