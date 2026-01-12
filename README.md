@@ -1,16 +1,61 @@
-### Olá, Seja bem vindo ao meu perfil!👋
+# Olá! Eu sou Joseph Oliveira 👋
 
-<div style="display: inline_block">
-  <img align="center" alt="Joseph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joseph-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joseph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joseph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joseph-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;30+anos;Python+%7C+React)](https://git.io/typing-svg)
 
-##
-  
-<div>
-  <a href = "mailto:dougx6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josephx6-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, com 30 anos e foco em criar soluções modernas e escaláveis. Minha stack principal envolve:
+
+### 🐍 Backend
+- **Python** - Django, FastAPI, Flask
+- APIs RESTful
+- Autenticação e segurança
+- Banco de dados (PostgreSQL, MongoDB)
+
+### ⚛️ Frontend
+- **React** - Hooks, Context API, Redux
+- JavaScript/TypeScript
+- HTML5, CSS3, Sass
+- Interfaces responsivas e modernas
+
+### 🛠️ Ferramentas
+- Git & GitHub
+- Docker
+- CI/CD
+- Testes automatizados
+
+---
+
+## 🌟 O que estou fazendo
+
+- 🎯 Desenvolvendo aplicações web completas
+- 📚 Sempre aprendendo novas tecnologias
+- 💭 Resolvendo problemas complexos
+- 🚀 Construído produtos digitais
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepholiveira&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepholiveira&layout=compact&theme=blueberry&hide_border=true)
+
+---
+
+## 📱 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josepholiveira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josepholiveira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.oliveira@email.com)
+
+---
+
+## 💬 Frase
+
+> "Código é poesia escrita em lógica"
+
+---
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=josepholiveira.josepholiveira)
